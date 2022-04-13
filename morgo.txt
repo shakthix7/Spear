@@ -3,7 +3,7 @@ Now, at this point,
 we have a general understanding of virtualization,
 as well as the function of a hypervisor
 
-(1)first change by thiru
+1 change by thiru
 (2)second update
 first change by thiru
 dadaaaan yo added txt
